@@ -1,5 +1,8 @@
 package com.xilope.project_titan.system.entity;
 
+import java.awt.*;
+
 public class Entity {
-    String id;
+    String name;
+    Dimension coordinate;
 }
